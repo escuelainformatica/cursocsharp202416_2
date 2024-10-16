@@ -9,6 +9,10 @@ namespace ConsoleApp5
 {
     internal class Program
     {
+        /// <summary>
+        /// Esta es la funcion de ejemplo del 16/10
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             // primer ejercicio

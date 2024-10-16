@@ -8,5 +8,9 @@ namespace ConsoleApp5.modelo
 {
     internal class Factura
     {
+        public int numFactura;
+        public string nombreCliente;
+        public string fecha;
+        public int monto;
     }
 }
